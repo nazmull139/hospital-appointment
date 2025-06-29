@@ -2,7 +2,7 @@
 import { Route, Routes } from 'react-router-dom'
 import { ToastContainer } from 'react-toastify'
 import Footer from './components/Footer'
-import Navbar from './components/NavBar'
+import Navbar from './components/Navbar'
 import PaymentSuccess from './components/Payment-Success'
 import About from './pages/About'
 import Appoinment from './pages/Appoinment'
