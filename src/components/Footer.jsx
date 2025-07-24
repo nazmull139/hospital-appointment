@@ -37,7 +37,7 @@ const Footer = () => {
 
         <div>
                          <hr/>
-            <p className='py-5 text-sm text-center'>Copyright © 2023 Joy Bangla. All rights reserved.</p>
+            <p className='py-5 text-sm text-center'>Copyright © 2023 Nazmul(210121) & Tanvir(210111) . All rights reserved.</p>
         </div>
 
     </div>
