@@ -27,8 +27,8 @@ const Footer = () => {
             <div>
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
                 <ul className='flex flex-col gap-2 text-gray-600'>
-                    <li>+1-212-456-7890</li>
-                    <li>joybangla@gmail.com</li>
+                    <li>+880 1705776033</li>
+                    <li>nazmul210121@diit.edu.bd.com</li>
                 </ul>
             </div>
         </div>
@@ -37,7 +37,7 @@ const Footer = () => {
 
         <div>
                          <hr/>
-            <p className='py-5 text-sm text-center'>Copyright © 2023 Nazmul(210121) & Tanvir(210111) . All rights reserved.</p>
+            <p className='py-5 text-sm text-center'>Copyright © 2025 Nazmul(210121) & Tanvir(210111) . All rights reserved.</p>
         </div>
 
     </div>
