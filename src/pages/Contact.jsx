@@ -14,7 +14,7 @@ const Contact = () => {
 
           <div className='flex flex-col justify-center items-start gap-6'>
               <p className='font-semibold text-lg text-gray-600'>Our Office</p>
-              <p className='text-gray-500'>Hazaribagh Dhaka , 1209</p>
+              <p className='text-gray-500'>Subhanbagh , Dhanmondi 32</p>
               <p className='text-gray-500'>phone : +880 1705776033<br/> Email: diithospital@diit.edu.bd</p>
               <p className='font-semibold text-lg text-hray-600'>Careers at DIIT HOSPITAL </p>
               <p className='text-gray-500'>Learn more about our teams and job openings.</p>
