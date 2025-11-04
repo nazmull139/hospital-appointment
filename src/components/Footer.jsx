@@ -19,7 +19,7 @@ we take. Committed to healing you—today, tomorrow & always.</p>
             <div>
                 <p className='text-xl font-medium mb-5'>Hospital </p>
                 <ul className='flex flex-col gap-2 text-gray-600'>
-                    <li><NavLink   to='/'  ><p  >Home</p></NavLink></li>
+                    <li><NavLink   to='/' end ><p  >Home</p></NavLink></li>
                     <li> <NavLink  to='/about'><p >About</p></NavLink></li>
                     <li><NavLink  to='/contact'><p >Contact</p></NavLink></li>
                     <li><NavLink   to='/'  ><p  >Privacy policy</p></NavLink></li>
