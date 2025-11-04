@@ -9,7 +9,7 @@ const Footer = () => {
             {/* Left side */}
 
             <div>
-                <img className='mb-5 w-40' src={assets.logo}/>
+                <img className='mb-5 w-40' src={assets.diit}/>
                 <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae voluptates libero, quam at cupiditate voluptate obcaecati rem quidem delectus.</p>
             </div>
 
