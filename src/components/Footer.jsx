@@ -10,7 +10,8 @@ const Footer = () => {
 
             <div>
                 <img className='mb-5 w-40' src={assets.diit}/>
-                <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae voluptates libero, quam at cupiditate voluptate obcaecati rem quidem delectus.</p>
+                <p className='w-full md:w-2/3 text-gray-600 leading-6'>Your Health is Our Priority. Prioritizing your care with every step
+we take. Committed to healing you—today, tomorrow & always.</p>
             </div>
 
             {/* Center section */}
