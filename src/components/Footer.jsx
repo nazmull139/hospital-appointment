@@ -22,7 +22,7 @@ we take. Committed to healing you—today, tomorrow & always.</p>
                     <li><NavLink   to='/' end ><p  >Home</p></NavLink></li>
                     <li> <NavLink  to='/about'><p >About</p></NavLink></li>
                     <li><NavLink  to='/contact'><p >Contact</p></NavLink></li>
-                    <li> Privacy policy</p> </li>
+                    <li> Privacy policy  </li>
                 </ul>
             </div>
             {/* Right side */}
